@@ -3,7 +3,7 @@
 * [前言](README.md)
 
 * [簡介](agenda.md)
-    * [什麼是 E.L.K.](agenda/README.md)
+    * [什麼是 E.L.K.](agenda/whats_elk.md)
     * [為什麼會用他們](agenda/why_use_it.md)
 
 * [執行在 docker 上](run_in_docker.md)
@@ -17,7 +17,7 @@
 * [成果](result.md)
 
 * [補充: Logstash 轉換成 filebeat](filebeat.md)
-    * [什麼是 filebeat](filebeat/README.md)
+    * [什麼是 filebeat](filebeat/whats_this.md)
     * [filebeat 設定](filebeat/setting.md)
     * [Logstash 修正](filebeat/change_logstash.md)
 
