@@ -1,8 +1,9 @@
 # 前言
 
-* 首先感謝 miles 鼓 (ㄊㄨㄟ) 勵 (ㄎㄥ) ，讓作者花時間把所學的寫成文章。
+* 首先感謝 miles 鼓 \(ㄊㄨㄟ\) 勵 \(ㄎㄥ\) ，讓作者花時間把所學的寫成文章。
 
-## 需要具備的知識 (不會講解 僅帶過)
+## 需要具備的知識 \(不會講解 僅帶過\)
+
 * Laravel
 * Docker
 
@@ -22,18 +23,19 @@
 ## 章節
 
 * 簡介
-    * 什麼是 E.L.K.
-    * 為什麼會用他們
+  * 什麼是 E.L.K.
+  * 為什麼會用他們
 * 執行在 docker 上
-    * 好用的 portainer 管理套件
-    * IP 衝突解決方法
-    * 設定 docker.yml
-    * 設定 Laravel
-    * 設定 Logstash
-    * 設定 Kibana
+  * 好用的 portainer 管理套件
+  * IP 衝突解決方法
+  * 設定 docker.yml
+  * 設定 Laravel
+  * 設定 Logstash
+  * 設定 Kibana
 * 成果展現
 * 補充: Logstash 轉換成 filebeat
-    * 什麼是 filebeat
-    * filebeat 設定
-    * Logstash 修正
+  * 什麼是 filebeat
+  * filebeat 設定
+  * Logstash 修正
 * 其他未歸類內容
+
