@@ -1,13 +1,13 @@
 # 什麼是 E.L.K.
 
-![ELK](elk.jpg)
+![elastic](elastic.png)
 * ELK 是 Elasticsearch, Logstash, Kibana 縮寫。
 
 
 
-## Elashticsearch
+## Elasticsearch
 
-![elashticsearch](elashticsearch.png)
+![elasticsearch](elasticsearch.png)
 * 負責所有的資料接收和請求，也是 ELK 的心臟
 
 ## Logstash
