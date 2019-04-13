@@ -1,5 +1,4 @@
 root: ./src
-language: zh
 
 structure:
   readme: README.md
