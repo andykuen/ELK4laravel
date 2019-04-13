@@ -1,6 +1,6 @@
 # Summary
 
-* [簡介](agenda)
+* [簡介](agenda/README.md)
     * [什麼是 E.L.K.](whats_elk.md)
     * [為什麼會用他們](why_use_it.md)
 
