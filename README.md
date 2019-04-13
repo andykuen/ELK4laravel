@@ -26,7 +26,8 @@
     * 設定 Logstash
     * 設定 Kibana
 * 成果展現
-* Logstash 轉換成 filebeat
+* 補充: Logstash 轉換成 filebeat
     * 什麼是 filebeat
     * filebeat 設定
-* 其他
+    * Logstash 修正
+* 其他還沒被歸類的資料
