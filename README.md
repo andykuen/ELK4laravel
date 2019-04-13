@@ -30,4 +30,4 @@
     * 什麼是 filebeat
     * filebeat 設定
     * Logstash 修正
-* 其他還沒被歸類的資料
+* 其他未歸類內容
