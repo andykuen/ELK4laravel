@@ -1,11 +1,9 @@
 # Summary
 
-## Use headings to create page groups like this one
-
 * [簡介](00.agenda.md)
     * [Some child page](01.whats_elk.md)
     * [Some other child page](02.why_use_it.md)
-    
+
 * [執行在 docker 上]
     * [Some child page](03.about_portainer_io.md)
     * [Some other child page](04.change_docker_network_ip.md)
