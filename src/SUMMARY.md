@@ -1,8 +1,10 @@
 # Summary
 
-* [簡介](agenda/README.md)
-    * [什麼是 E.L.K.](whats_elk.md)
-    * [為什麼會用他們](why_use_it.md)
+* [簡介](README.md)
+
+* 簡介
+    * [什麼是 E.L.K.](agenda/whats_elk.md)
+    * [為什麼會用他們](agenda/why_use_it.md)
 
 * 執行在 docker 上
     * [好用的 portainer 管理套件](03.about_portainer_io.md)
